@@ -1,7 +1,9 @@
 
 // import './App.css'
 
-import MyCard from "./component/MyCard"
+import MyCars from "./component/MyCars"
+
+// import MyCard from "./component/MyCard"
 
 // // import Count from './component/Count'
 // import CounterMain from './component/CounterMain'
@@ -26,7 +28,9 @@ function App() {
 
       {/* <CounterMain/> */}
 
-      <MyCard/>
+      {/* <MyCard/> */}
+
+      <MyCars/>
       
     </>
   )
