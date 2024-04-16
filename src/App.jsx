@@ -1,8 +1,10 @@
 
 // import './App.css'
 
-// import Count from './component/Count'
-import CounterMain from './component/CounterMain'
+import MyCard from "./component/MyCard"
+
+// // import Count from './component/Count'
+// import CounterMain from './component/CounterMain'
 // import Counter from './component/CounterMain'
 // import Home from './component/Home'
 // import Mssge from './component/Mssge'
@@ -22,7 +24,9 @@ function App() {
       <Count/>
       <Count/> */}
 
-      <CounterMain/>
+      {/* <CounterMain/> */}
+
+      <MyCard/>
       
     </>
   )
